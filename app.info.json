@@ -1,13 +1,4 @@
 {
-  "app_name": "dbz-ui",
-  "src_hash": "",
-  "src_tag": "",
-  "src_branch": "",
-  "patternfly_dependencies": [],
-  "rh_cloud_services_dependencies": [],
-  "travis": {
-    "event_type": "",
-    "build_number": "",
-    "build_web_url": ""
+      "app_name": "dbz-ui-build",
+      "src_hash": "b867d54"
   }
-}
